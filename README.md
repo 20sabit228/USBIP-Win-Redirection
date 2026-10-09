@@ -120,7 +120,7 @@ Each milestone is implemented on its own dedicated branch for modular developmen
 
 1. Clone the repository and submodules:
 ```bash
-git clone --recursive https://github.com/YOUR_USERNAME/USBIP-Win-Redirection.git
+git clone --recursive https://github.com/20sabit228/USBIP-Win-Redirection
 cd USBIP-Win-Redirection
 
 ```
